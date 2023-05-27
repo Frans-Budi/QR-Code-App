@@ -6,9 +6,9 @@ This application will help companies in managing their product data and is equip
 
 ## Technology Used
 
-1. 📱 Dart - Flutter
-2. 📡 PHP - Laravel
-3. 💾 MySQL
+1. Dart - Flutter
+2. PHP - Laravel
+3. MySQL
 
 ## Application Features
 
