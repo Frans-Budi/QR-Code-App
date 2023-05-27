@@ -7,7 +7,7 @@ This application will help companies in managing their product data and is equip
 ## Technology Used
 
 1. Dart - Flutter
-2. PHP - Laravel
+2. PHP - [Laravel](https://github.com/Frans-Budi/QR-Code-API)
 3. MySQL
 
 ## Application Features
