@@ -1,16 +1,29 @@
-# qr_code
+[![Demo Aplication](https://i9.ytimg.com/vi/-r2XEqVkmlU/mqdefault.jpg?v=6471aa1f&sqp=CJy4yKMG&rs=AOn4CLA6-AHAtyvhbn_I385Ge3Q1EqbOnQ)](https://youtu.be/-r2XEqVkmlU)
 
-A new Flutter project.
+# QR_Code Application
 
-## Getting Started
+This application will help companies in managing their product data and is equipped with a QR Code scan feature so that it will greatly facilitate the work of employees in finding certain products.
 
-This project is a starting point for a Flutter application.
+## Technology Used
 
-A few resources to get you started if this is your first Flutter project:
+1. 📱 Dart - Flutter
+2. 📡 PHP - Laravel
+3. 💾 MySQL
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Application Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CRUD --> Create, Read, Update, And Delete
+
+1. Authentication - Login
+2. Authentication - Register
+3. CRUD Products
+4. Scanning Product
+5. Create PDF on the Products
+
+## Purpose of Application Made
+
+This application was created to practice my skills in creating a mobile application with Flutter as the Front-End and Laravel as the Back-End.
+
+## How Do I Make This App?
+
+This application was made by following one of the Flutter tutorials on Youtube. I am very grateful to the Youtube Channel called [Kuldi Project](https://www.youtube.com/@KuldiiProject) for sharing his knowledge and experience in making this application.
