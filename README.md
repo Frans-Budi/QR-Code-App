@@ -1,4 +1,4 @@
-[![Demo Aplication](https://github.com/Frans-Budi/Frans-Budi/blob/main/Thumbnail/Thum-QrCode.png)](https://youtu.be/-r2XEqVkmlU)
+[![Demo Aplication](https://github.com/Frans-Budi/Frans-Budi/blob/main/Thumbnail/Thum-QrCode.jpg)](https://youtu.be/-r2XEqVkmlU)
 
 # QR_Code Application
 
