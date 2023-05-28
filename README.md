@@ -1,4 +1,4 @@
-[![Demo Aplication](https://i9.ytimg.com/vi/-r2XEqVkmlU/mqdefault.jpg?v=6471aa1f&sqp=CJy4yKMG&rs=AOn4CLA6-AHAtyvhbn_I385Ge3Q1EqbOnQ)](https://youtu.be/-r2XEqVkmlU)
+[![Demo Aplication](https://github.com/Frans-Budi/Frans-Budi/blob/main/Thumbnail/Thum-QrCode.png)](https://youtu.be/-r2XEqVkmlU)
 
 # QR_Code Application
 
